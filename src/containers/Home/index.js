@@ -37,7 +37,7 @@ const App = () => {
     <Container>
       <Image alt="logo-code-club-burguer" src={LogoHome} />
 
-      <H1>Make your wish!</H1>
+      <H1>Write the order</H1>
 
       <ContainerItens>
         <InputLabel>Order</InputLabel>
