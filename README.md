@@ -1,6 +1,6 @@
 # App Hamburgueria
 
-<img src="./assets/print.gif" alt="Gif do projeto">
+<img src="./src/assets/print.gif" alt="Gif do projeto">
 
 
 > Projeto finalizado 
